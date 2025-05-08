@@ -1,0 +1,7 @@
+streamlit>=1.0.0
+google-cloud-aiplatform
+python-dotenv
+Pillow>=8.0.0
+requests
+google-search-results
+font-roboto
